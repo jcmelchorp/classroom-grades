@@ -1,0 +1,30 @@
+{
+  "name": "classroom-grades",
+  "version": "1.0.0",
+  "description": "Google Classroom powered by Apps Script",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jcmelchorp/classroom-grades.git"
+  },
+  "keywords": [
+    "Google",
+    "Classroom",
+    "Google",
+    "Apps",
+    "Scripts",
+    "Google",
+    "Sheets",
+    "Google",
+    "APIs"
+  ],
+  "author": "Julio César Melchor Pinto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jcmelchorp/classroom-grades/issues"
+  },
+  "homepage": "https://github.com/jcmelchorp/classroom-grades#readme"
+}
